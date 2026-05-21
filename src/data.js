@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Narendra Sahu',
-  title: 'Senior Creative Frontend Engineer & 3D Web Developer',
+  title: 'Creative Frontend Engineer & 3D Web Developer',
   location: 'Bengaluru, India',
   email: 'narendra.sahu5695@gmail.com',
   phone: '+91-XXXXXXXXXX',
