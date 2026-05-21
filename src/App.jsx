@@ -70,7 +70,7 @@ function About() {
       </div>
       <div className="body-copy">
         <p>I am a Creative Frontend Engineer based in Bengaluru, India, specializing in React, Three.js, WebGL, React Three Fiber and GSAP.</p>
-        <p>My work blends frontend engineering with 3D graphics, animation and visual storytelling. I have built responsive web applications, real-time 3D product configurators, desktop learning platforms and visual effects for regional feature films and commercial projects.</p>
+        <p>My work combines frontend engineering with 3D graphics, animation and visual storytelling. I have built responsive web applications, real-time 3D product configurators, desktop learning platforms and visual effects for regional feature films and commercial projects.</p>
         <p>Before working independently, I served as a Senior Web Development Faculty at Arena Animation, Raipur, where I trained 100+ students in HTML, CSS, JavaScript, PHP, MySQL and responsive web development.</p>
         <div className="skill-cloud">{skills.map((skill) => <span key={skill}>{skill}</span>)}</div>
       </div>
