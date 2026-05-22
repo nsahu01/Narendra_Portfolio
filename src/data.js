@@ -96,6 +96,6 @@ export const projects = [
     stack: 'Blender, Unreal Engine, After Effects',
     client: 'Regional film and commercial projects',
     description: 'Delivered VFX, CGI, motion graphics, environments, compositing and post-production support for 25+ regional feature film and commercial projects.',
-    highlights: ['20+ film projects', 'Compositing and CGI', 'Motion graphics', 'Cinematic environments']
+    highlights: ['25+ film projects', 'Compositing and CGI', 'Motion graphics', 'Cinematic environments']
   }
 ];
