@@ -46,7 +46,7 @@ function Hero() {
         </div>
         <div className="stats">
           <div><strong>11+</strong><span>Years Experience</span></div>
-          <div><strong>20+</strong><span>Film/VFX Projects</span></div>
+          <div><strong>25+</strong><span>Film/VFX Projects</span></div>
           <div><strong>100+</strong><span>Students Mentored</span></div>
         </div>
       </div>
